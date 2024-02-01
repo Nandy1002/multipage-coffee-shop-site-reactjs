@@ -12,9 +12,9 @@ const Visit = () => {
         <h3>Phone</h3>
         <p><a href="tel:5555555555">(555) 555-5555</a></p>
         <h3>Email</h3>
-        <p><a href="mailto:coffee.grounds@realemail.com">coffee.grounds@realemail.com</a></p>
+        <p><a href="mailto:coffee.shop@gmail.com">coffee.shop@gmail.com</a></p>
         <h3>Location</h3>
-        <p>555 Espresso Lane Mochaville FL 55555</p>
+        <p>Mysore Rd, Bangalore, India - 560059</p>
       </section>
     </React.Fragment>
   );

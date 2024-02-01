@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="other">
           <div className="contact-info">
             <p className="hours"><span className="icon far fa-clock fa-fw"></span> Hours: DAILY 7AM - 8PM</p>
-            <p className="address"><span className="icon fas fa-map-marker-alt fa-fw"></span> 555 Espresso Lane Mochaville FL 55555</p>
+            <p className="address"><span className="icon fas fa-map-marker-alt fa-fw"></span> Mysore Rd, Bangalore, India - 560059</p>
             <p className="phone"><span className="icon fas fa-phone-alt fa-fw"></span> <a href="tel:5555555555">(555) 555-5555</a></p>
           </div>
           <div className="social-media-links">
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <div className="app-footer">Created by <a href="https://autumnchris.github.io/portfolio" target="_blank">Autumn Bullard</a> &copy; {new Date().getFullYear()}</div>
+      <div className="app-footer">Created by <a href="https://nabendudas.in" target="_blank">Nabendu Das & Ashish Garg</a> &copy; {new Date().getFullYear()}</div>
     </footer>
   );
 }
